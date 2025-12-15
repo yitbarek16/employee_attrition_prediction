@@ -12,7 +12,7 @@ This project builds a machine learning model to predict employee attrition using
   - Save cleaned data for reuse
   - Model building
   - Train a Random Forest classifier
-  - 
+    
 - Model evaluation
   - Accuracy, Precision, Recall, F1-score
   - Confusion matrix visualization
